@@ -4,6 +4,8 @@ body {
 .entry {
     background-color: #41ead4;
     margin-top: 55px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .homeBTN {
@@ -14,4 +16,16 @@ body {
 
 .navbar {
     background-color: #ff206e;
+}
+
+/* .rankBC {
+    background-color: #fbff12;
+}
+
+.viewBC {
+    background-color: #fbff12;
+} */
+
+.list-group-item {
+    background-color: #fbff12;
 }
